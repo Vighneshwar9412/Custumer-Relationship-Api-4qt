@@ -1,0 +1,17 @@
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.BLL.deps.json
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.BLL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.BLL.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.DAL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.Entity.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.Entity.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\bin\Debug\net6.0\CRMApi.DAL.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.csproj.AssemblyReference.cache
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.AssemblyInfoInputs.cache
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.AssemblyInfo.cs
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.csproj.CoreCompileInputs.cache
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.csproj.CopyComplete
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\refint\CRMApi.BLL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\CRMApi.BLL.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiBLL\obj\Debug\net6.0\ref\CRMApi.BLL.dll

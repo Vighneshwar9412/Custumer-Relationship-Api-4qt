@@ -1,0 +1,15 @@
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\bin\Debug\net6.0\CRMApi.DAL.deps.json
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\bin\Debug\net6.0\CRMApi.DAL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\bin\Debug\net6.0\CRMApi.DAL.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\bin\Debug\net6.0\CRMApi.Entity.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\bin\Debug\net6.0\CRMApi.Entity.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.csproj.AssemblyReference.cache
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.AssemblyInfoInputs.cache
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.AssemblyInfo.cs
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.csproj.CoreCompileInputs.cache
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.csproj.CopyComplete
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\refint\CRMApi.DAL.dll
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\CRMApi.DAL.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApiDAL\obj\Debug\net6.0\ref\CRMApi.DAL.dll

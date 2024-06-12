@@ -1,0 +1,12 @@
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\bin\Debug\net6.0\CRMApi.Entity.deps.json
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\bin\Debug\net6.0\CRMApi.Entity.dll
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\bin\Debug\net6.0\CRMApi.Entity.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.csproj.AssemblyReference.cache
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.AssemblyInfoInputs.cache
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.AssemblyInfo.cs
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.csproj.CoreCompileInputs.cache
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.dll
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\refint\CRMApi.Entity.dll
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\CRMApi.Entity.pdb
+E:\vignesh\CustomerRelationShipApi\CRMApi.Entity\obj\Debug\net6.0\ref\CRMApi.Entity.dll
